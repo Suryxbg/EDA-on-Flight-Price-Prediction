@@ -17,6 +17,8 @@ During the analysis, the following key questions were addressed:
 - Does the month/season of travel impact ticket price significantly?
 - Is there a relationship between flight duration and ticket price?
 
+## Dashboard
+
 ## Process / Workflow (from your notebook)
 
 - Combined them into a single dataframe (df_final) for consistent preprocessing.
