@@ -21,8 +21,8 @@ During the analysis, the following key questions were addressed:
 
 ## Process 
 
-- Combined them into a single dataframe (df_final) for consistent preprocessing.
-- Date & Time Feature Engineering
+- Combined them into a single dataframe for consistent preprocessing.
+- Date & Time Feature Engineering.
 - Converted data types to integers for modeling.
 - Extracted Arrival Hour & Minute from Arrival_Time.
 - Extracted Departure Hour & Minute from Dep_Time.
