@@ -16,8 +16,8 @@ During the analysis, the following key questions were addressed:
 - How do prices vary with the day of journey?
 - Does the month/season of travel impact ticket price significantly?
 - Is there a relationship between flight duration and ticket price?
+- Dashboard Interaction <a href = "https://github.com/Suryxbg/EDA-on-Flight-Price-Prediction/blob/main/dashboard_image.png">View Dashboard</a>
 
-## Dashboard
 
 ## Process / Workflow (from your notebook)
 
@@ -39,6 +39,9 @@ During the analysis, the following key questions were addressed:
   - Destination
 - Cleaned and structured duration/time-based columns.
 - Removed unnecessary columns after transformation.
+
+## Dashboard 
+<img width="1588" height="1790" alt="dashboard_image" src="https://github.com/user-attachments/assets/d83cbf50-1564-48f5-877a-93a5bc6a5126" />
 
 ## Project Insights (from EDA)
 
