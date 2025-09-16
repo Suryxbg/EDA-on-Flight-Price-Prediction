@@ -38,3 +38,26 @@ During the analysis, the following key questions were addressed:
 - Cleaned and structured duration/time-based columns.
 - Removed unnecessary columns after transformation.
 
+## Project Insights (from EDA)
+
+- Price Distribution
+  - Flight prices are right-skewed, with most tickets in the lower-to-mid range.
+  - A few extreme outliers exist where ticket prices are very high.
+
+- Impact of Stops
+  - Ticket price increases as the number of stops increases.
+  - Non-stop flights are generally cheaper compared to 1-stop, 2-stop, or 3-stop flights.
+
+- Airline-wise Pricing
+  - Full-service airlines (e.g., Jet Airways, Air India) charge significantly higher fares compared to budget carriers (e.g., Indigo, SpiceJet).
+  - Premium airlines dominate the higher end of the price distribution.
+
+- Route & Connectivity
+  - Routes with more layovers tend to be costlier.
+  - Popular routes with frequent connectivity have more competitive prices.
+
+- Time-based Factors
+  - Prices vary depending on departure and arrival times.
+  - Certain times of the day (e.g., early morning, late night) show lower fares compared to peak travel times.
+  - Month and season also influence prices — some months show clear demand-driven spikes.
+
