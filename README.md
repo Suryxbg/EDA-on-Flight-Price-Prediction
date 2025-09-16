@@ -19,7 +19,7 @@ During the analysis, the following key questions were addressed:
 - Dashboard Interaction <a href = "https://github.com/Suryxbg/EDA-on-Flight-Price-Prediction/blob/main/dashboard_image.png">View Dashboard</a>
 
 
-## Process / Workflow (from your notebook)
+## Process 
 
 - Combined them into a single dataframe (df_final) for consistent preprocessing.
 - Date & Time Feature Engineering
