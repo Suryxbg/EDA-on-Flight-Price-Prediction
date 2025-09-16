@@ -64,7 +64,7 @@ During the analysis, the following key questions were addressed:
 - Time-based Factors
   - Prices vary depending on departure and arrival times.
   - Certain times of the day (e.g., early morning, late night) show lower fares compared to peak travel times.
-  - Month and season also influence prices — some months show clear demand-driven spikes.
+  - Month and season also influence prices, some months show clear demand-driven spikes.
 
 ## Conclusion
 
