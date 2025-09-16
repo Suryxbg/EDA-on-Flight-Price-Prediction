@@ -71,6 +71,4 @@ During the analysis, the following key questions were addressed:
 - Flight ticket prices are influenced by multiple factors, with airline, number of stops, route, and timing being the most critical drivers.
 - Full-service airlines and multi-stop flights are consistently more expensive.
 - Feature engineering of date/time and categorical variables improved the model’s ability to explain variance in price.
-- Predictive modeling confirmed that tree-based models (Random Forest, XGBoost) outperform simple regression methods, delivering better accuracy.
-- The insights can help both airlines (for pricing strategies) and passengers (for booking optimization).
 
